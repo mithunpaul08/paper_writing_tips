@@ -82,6 +82,14 @@ As an example, a paper that follows this structure is here: https://www.aclweb.o
 
 3. Minimize coreference to increase clarity. For example, *It* in the second sentence in this text "For example, XYZ propose a supervised learning approach that ... It tackles several problems..." is fairly ambiguous. When ambiguities exist, please replace the pronouns with a more descriptive noun phrase, e.g., the second sentence in the above example reads better as "The proposed approach tackles several problems..."
 
+
+### General advice
+- Don’t patronize your readers, if you are working on LSTM, don't include a picture of LSTM. However, if you have a new architecture, definitely explain it.
+- After working on a paper for a day, put it aside and look at it 2 days later.
+- Usually students err at the side of caution, i.e wayyyy too much information. Don't.
+- Tuning: Less tuning means you have more confidence in your model. Try to tune the learning rate to the maximum. Even optimizers are optional.
+
+
 ### 6. Advice from other people
 
 1. [Novelist Cormac McCarthy’s tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5)
