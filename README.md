@@ -39,6 +39,8 @@ Very often, the hardest section to write is the Introduction. Because of this, I
 - Include an ablation test i.e remove one contribution at a time.
 - Your approach/contribution can be a collection of things. Its ok that one alone is not great, but is combinedly great.
 
+### Figures
+- The captions of your figures must be self contained. i.e if a reviewer is going to read ONLY your captions (and not the paper in detail) he should still be able to get a rough idea of what that figure/table is about.
 
 As an example, a paper that follows this structure is here: https://www.aclweb.org/anthology/K17-1009 
 
