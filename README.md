@@ -110,6 +110,8 @@ As an example, a paper that follows this structure is here: https://www.aclweb.o
 - While writing the paper it is a good idea to start with results section (and get it reviewed by your advisor or someone who knows the work). That will give you a clear cut tangible platform to stand/of what the crux of your paper is.
 - Always use a segue: don't hit your reader with a sudden change of topic. Ease the reader into why you are changing the topic.
 - Always use active voice instead of passive voice. e.g., ``An example can be seen in Table1`` is wrong. use ``We show the example in Table 1``. This shows the reviewer that you are boldly taking up responsibility for your work.
+- Don’t make your claims too strong...hedge always
+- Don't say ``this is the proof that`` unless you are deriving a mathematical proof. In our line of work `empirical demonstration of the hypothesis` might be a better choice.
 
 ### 6. Advice from other people
 
