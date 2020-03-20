@@ -42,6 +42,10 @@ Very often, the hardest section to write is the Introduction. Because of this, I
 ### Figures
 - The captions of your figures must be self contained. i.e if a reviewer is going to read ONLY your captions (and not the paper in detail) he should still be able to get a rough idea of what that figure/table is about.
 
+### References
+- Try to use bibtex
+- Try to use reference from the proceedings of a well known conference, instead of from arxiv if possible. Gives more authenticity and saves the reviewer the pain of confirming the importance of the reference.
+
 As an example, a paper that follows this structure is here: https://www.aclweb.org/anthology/K17-1009 
 
 ## 2. Common phrases
@@ -110,7 +114,7 @@ As an example, a paper that follows this structure is here: https://www.aclweb.o
 - While writing the paper it is a good idea to start with results section (and get it reviewed by your advisor or someone who knows the work). That will give you a clear cut tangible platform to stand/of what the crux of your paper is.
 - Always use a segue: don't hit your reader with a sudden change of topic. Ease the reader into why you are changing the topic.
 - Always use active voice instead of passive voice. e.g., ``An example can be seen in Table1`` is wrong. use ``We show the example in Table 1``. This shows the reviewer that you are boldly taking up responsibility for your work.
-- Don’t make your claims too strong...hedge always
+- Don’t make your claims too strong...hedge always (e.g.,use `incorrect` instead of `wrong`. `Wrong` is too strong a word.)
 - Don't say ``this is the proof that`` unless you are deriving a mathematical proof. In our line of work `empirical demonstration of the hypothesis` might be a better choice.
 
 ### 6. Advice from other people
