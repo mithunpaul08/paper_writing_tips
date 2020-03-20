@@ -2,7 +2,8 @@
 
 # Common issues seen in the lab while writing a research article
 
-Needless to say, writing a research article is a big part of your graduate work. This document aims to provide guidance on the common issues your advisors have seen in this process. This is by no means a complete document; it will grow as we see issues popping up. So please come back often.
+Needless to say, writing a research article is a big part of your graduate work. This document aims to provide guidance on the common issues your advisors have seen in this process. This is by no means a complete document; it will grow as we see issues popping up. So please come back often. 
+Last edit: March 2020
 
 ## 1. Paper structure
 
