@@ -96,6 +96,8 @@ As an example, a paper that follows this structure is here: https://www.aclweb.o
 3. Minimize coreference to increase clarity. For example, *It* in the second sentence in this text "For example, XYZ propose a supervised learning approach that ... It tackles several problems..." is fairly ambiguous. When ambiguities exist, please replace the pronouns with a more descriptive noun phrase, e.g., the second sentence in the above example reads better as "The proposed approach tackles several problems..."
 
 - Don't use acronyms in titles
+- Expand numerals if they are less than 10 (e.g., use FOUR instead of 4) but not for numbers more than 10. (e.g., 58 is 58 and you don’t need to say “fifty eight”)
+
 
 ### General advice
 - Don’t patronize your readers, if you are working on LSTM, don't include a picture of LSTM. However, if you have a new architecture, definitely explain it.
@@ -107,8 +109,7 @@ As an example, a paper that follows this structure is here: https://www.aclweb.o
 - There is a school of thought which even suggests you should write the entire paper before starting to implement it.
 - While writing the paper it is a good idea to start with results section (and get it reviewed by your advisor or someone who knows the work). That will give you a clear cut tangible platform to stand/of what the crux of your paper is.
 - Always use a segue: don't hit your reader with a sudden change of topic. Ease the reader into why you are changing the topic.
-
-
+- Always use active voice instead of passive voice. e.g., ``An example can be seen in Table1`` is wrong. use ``We show the example in Table 1``. This shows the reviewer that you are boldly taking up responsibility for your work.
 
 ### 6. Advice from other people
 
