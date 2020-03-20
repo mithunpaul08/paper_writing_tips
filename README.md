@@ -27,6 +27,13 @@ Very often, the hardest section to write is the Introduction. Because of this, I
 3. Third paragraph (optional): a more technical description of the paper, if the above paragraph was not sufficient to explain why your work is so cool. This is to get the NLP readers excited about your work. 
 4. Contributions: an itemized list of the contributions of this paper. Make this as specific as you can, so it is crystal clear to anybody who reads it what the contribution of this work is. Aim for around three items here.
 5.Don't bury the lede- Get to your point in the first page itself.
+6. Don’t include an overview section in the intro section for an 8 page long paper. Same for conference presentations, you don’t need an overview slide.
+
+### Results
+- Don't just say one line about your results. Try to explain why the results are different between the systems.
+- Don’t make up a nice story if you cant support it with results. Just be honest
+- Include an ablation test i.e remove one contribution at a time.
+- Your approach/contribution can be a collection of things. Its ok that one alone is not great, but is combinedly great.
 
 
 As an example, a paper that follows this structure is here: https://www.aclweb.org/anthology/K17-1009 
