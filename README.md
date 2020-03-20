@@ -19,7 +19,6 @@ The most common structure for an empirical NLP paper in CS (but by no means the 
 
 ### Abstract
 -   If you use percentages always mention if they are  are relative or absolute
--   s
 
 ### Introduction
 
