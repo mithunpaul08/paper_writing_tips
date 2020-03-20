@@ -34,6 +34,7 @@ Very often, the hardest section to write is the Introduction. Because of this, I
 ### Related work
 - Start with related work/prior art search even before you start to code. You don't want to re-invent the wheel.
 - Also this helps for scoops: situations where something very similar to your work was just published by someone else. This happens a lot when you are trying to beat a leaderboard.
+- Its written `Miller et al., 1990` if you ever have to write it by hand. Ideally bibliography should take care of this.
 
 ### Results
 - Don't just say one line about your results. Try to explain why the results are different between the systems.
