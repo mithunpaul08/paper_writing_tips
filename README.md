@@ -106,6 +106,7 @@ As an example, a paper that follows this structure is here: https://www.aclweb.o
 - Ideas wise you might start with one, and end with other, but thats ok.
 - There is a school of thought which even suggests you should write the entire paper before starting to implement it.
 - While writing the paper it is a good idea to start with results section (and get it reviewed by your advisor or someone who knows the work). That will give you a clear cut tangible platform to stand/of what the crux of your paper is.
+- Always use a segue: don't hit your reader with a sudden change of topic. Ease the reader into why you are changing the topic.
 
 
 
