@@ -18,7 +18,9 @@ The most common structure for an empirical NLP paper in CS (but by no means the 
 7. Conclusion: take home message.
 
 ### Abstract
-- Always mention if your percentages are relative or absolute
+-   If you use percentages always mention if they are  are relative or absolute
+-   s
+
 ### Introduction
 
 Very often, the hardest section to write is the Introduction. Because of this, I recommend following this strict structure (at least until you are comfortable with your writing skills):
