@@ -26,8 +26,7 @@ Very often, the hardest section to write is the Introduction. Because of this, I
 1. First paragraph: what problem are you working on. Why is it important, and why is it hard.
 2. Second paragraph: a summary of your contribution in plain English. This paragraph should be understandable to a scientist that may not be exactly in your field. Thus, minimize NLP/ML jargon as much as possible. 
 3. Third paragraph (optional): a more technical description of the paper, if the above paragraph was not sufficient to explain why your work is so cool. This is to get the NLP readers excited about your work. 
-4. Contributions: an itemized list of the contributions of this paper. Make this as specific as you can, so it is crystal clear to anybody who reads it what the contribution of this work is. Aim for around three items here.
-5.Don't bury the lede- Get to your point in the first page itself.
+4. Contributions: an itemized list of the contributions of this paper. Make this as specific as you can, so it is crystal clear to anybody who reads it what the contribution of this work is. Aim for around three items here. Don't bury the lead;  get to your point in the contributions and the previous paragraph!
 6. Don’t include an overview section in the intro section for an 8 page long paper. Same for conference presentations, you don’t need an overview slide.
 
 
