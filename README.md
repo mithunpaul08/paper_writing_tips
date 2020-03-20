@@ -1,4 +1,3 @@
-Common writing issues
 
 
 # Common issues seen in the lab while writing a research article
@@ -28,6 +27,11 @@ Very often, the hardest section to write is the Introduction. Because of this, I
 4. Contributions: an itemized list of the contributions of this paper. Make this as specific as you can, so it is crystal clear to anybody who reads it what the contribution of this work is. Aim for around three items here.
 5.Don't bury the lede- Get to your point in the first page itself.
 6. Don’t include an overview section in the intro section for an 8 page long paper. Same for conference presentations, you don’t need an overview slide.
+
+
+### Related work
+- Start with related work/prior art search even before you start to code. You don't want to re-invent the wheel.
+- Also this helps for scoops: situations where something very similar to your work was just published by someone else. This happens a lot when you are trying to beat a leaderboard.
 
 ### Results
 - Don't just say one line about your results. Try to explain why the results are different between the systems.
@@ -95,6 +99,8 @@ As an example, a paper that follows this structure is here: https://www.aclweb.o
 - After working on a paper for a day, put it aside and look at it 2 days later.
 - Usually students err at the side of caution, i.e wayyyy too much information. Don't.
 - Tuning: Less tuning means you have more confidence in your model. Try to tune the learning rate to the maximum. Even optimizers are optional.
+- Technical writing is not literature. People are coming to your paper not to find your literary skills, but to find what you have come up with new and 
+
 
 
 ### 6. Advice from other people
